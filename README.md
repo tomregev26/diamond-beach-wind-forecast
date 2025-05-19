@@ -69,5 +69,7 @@ Feature importance rankings.
 
 Optional visualizations of selected decision trees.
 
+in the github repository i only uploaded the 2022 data due to the data's big memory capcity, whom ever who want the rest of the data can DM me and i will send it to him
+
 Summary
 Random Forest was found to be the most effective algorithm for this project due to its strong performance and interpretability. The data pipeline includes all necessary steps for cleaning, transforming, modeling, and evaluating wind-related predictions based on long-term historical data.
